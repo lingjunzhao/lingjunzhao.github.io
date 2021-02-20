@@ -10,9 +10,9 @@ redirect_from:
 
 I am a first-year Ph.D. student at the Computer Science Department of University of Maryland, College Park.
 
-My research interest lies in the intersection of natural language processing and machine learning. More specifically, my goal is to develop machine learning models to understand and communicate with human language better. I am also interested in leveraging NLP for social good. 
+My research interest is to develop and improve machine learning models for natural language processing and computer vision. The application could be enabling machines to better understand and communicate with human languages, and for social good.
 
-I graduated from Columbia University with M.S. in Computer Science, and Sun Yat-sen University with B.S. in Computational Mathematics. Before joining UMD, I worked on low resource cross-lingual information retrieval and information extraction.
+I graduated from Columbia University with M.S. in Computer Science, and Sun Yat-Sen University with B.S. in Computational Mathematics. Before joining UMD, I worked on low resource cross-lingual information retrieval, information extraction and computer vision.
 
 Outside research, I am an amateur artist in oil painting.
 
