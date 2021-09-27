@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download [PDF](https://cathvoilet.github.io/files/Lingjun_CV_Dec2020.pdf) (Updated Dec 2020)
+Download [PDF](https://cathvoilet.github.io/files/cv.pdf) (Updated Sep 2021)
