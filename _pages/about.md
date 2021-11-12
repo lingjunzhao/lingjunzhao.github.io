@@ -10,11 +10,10 @@ redirect_from:
 
 I am a first-year Ph.D. student at the Computer Science Department of University of Maryland, College Park.
 
-My current research interests include natural language generation, interactions between language and vision for learning, and domain adaptation. 
+My research interests include natural language generation, language learning through visual and social interactions.
 
 I graduated from Columbia University with M.S. in Computer Science, and Sun Yat-Sen University with B.S. in Computational Mathematics. Before joining UMD, I worked on low resource cross-lingual information retrieval, information extraction and computer vision.
 
 Outside research, I am an amateur artist in oil painting.
-
 
 
