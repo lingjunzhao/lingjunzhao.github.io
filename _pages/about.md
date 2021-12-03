@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the Computer Science Department of University of Maryland, College Park.
+I am a first-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I'm working with Hal Daumé III..
 
 My research interests include natural language generation, language learning through visual and social interactions.
 
