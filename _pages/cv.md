@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download [PDF](https://cathvoilet.github.io/files/cv.pdf) (Updated Sep 2021)
+Download [PDF](https://lingjunzhao.github.io/files/cv.pdf) (Updated Sep 2021)
