@@ -118,7 +118,7 @@
 
 <html>
 <head>
-	<title>A Cognitive Evaluation of Cooperative Instruction Generation Agents tl;dr They Need Better Theory-of-Mind Capabilities</title>
+	<title>A Cognitive Evaluation of Instruction Generation Agents tl;dr They Need Better Theory-of-Mind Capabilities</title>
 	<meta property="og:image" content="Path to my teaser.png"/> <!-- Facebook automatically scrapes this. Go to https://developers.facebook.com/tools/debug/ if you update and want to force Facebook to rescrape. -->
 	<meta property="og:title" content="Cognitive Evaluation of Cooperative Instruction Generation Agents" />
 	<!-- <meta property="og:description" content="Paper description." /> -->
@@ -138,7 +138,7 @@
 <body>
 	<br>
 	<center>
-		<span style="font-size:36px">A Cognitive Evaluation of Cooperative Instruction Generation Agents <br> <i>tl;dr</i> They Need Better Theory-of-Mind Capabilities</span>
+		<span style="font-size:36px">A Cognitive Evaluation of Instruction Generation Agents <br> <i>tl;dr</i> They Need Better Theory-of-Mind Capabilities</span>
 		<table align=center width=600px>
 			<table align=center width=600px>
 				<tr>
@@ -163,7 +163,7 @@
 				<tr>
 					<td align=center width=120px>
 						<center>
-							<span style="font-size:24px"><a href=''>[Paper]</a></span>
+							<span style="font-size:24px"><a href='https://arxiv.org/abs/2301.05149'>[Paper]</a></span>
 						</center>
 					</td>
 					<td align=center width=120px>
@@ -181,12 +181,17 @@
 		</table>
 	</center>
 
-	<center>
+	<br>
+	<hr>
+
+	</center>
+
+		<center>
 		<table align=center width=850px>
 			<tr>
 				<td width=260px>
 					<center>
-						<img class="round" style="width:500px" src="./resources/paper_overview.png"/>
+						<img class="round" style="width:800px" src="./resources/bounded_pragmatic.pdf"/>
 					</center>
 				</td>
 			</tr>
@@ -194,11 +199,12 @@
 		<table align=center width=850px>
 			<tr>
 				<td>
-					Our cooperative communication framework consists of a base speaker model to generate the most relevant utterances as candidates to describe a path from start location to goal location, and a theory-of-mind listener model to pick the best utterance according to its simulation on which utterance from candidates can lead to the destination more effectively. A human listener would then follow the listener selected utterance to reach the destination.
+					The cognitive process of a bounded pragmatic speaker. In every task, the speaker first imagines a trajectory it wants to convey to the human listener. To reduce the search space, it then uses the <i>base speaker</i> to generate a small set of relevant candidate instructions. After that, it employs the <i>theory-of-mind model</i> to simulate how the human listener would follow each instruction in the candidate set. The speaker finally elects the candidate instruction that causes the theory-of-mind listener to generate the trajectory most similar to the intended trajectory. The output instruction is finally sent to the human listener for a real execution in the environment.
 				</td>
 			</tr>
 		</table>
 	</center>
+
 
 	<hr>
 
@@ -206,7 +212,13 @@
 		<center><h1>Abstract</h1></center>
 		<tr>
 			<td>
-				This is my abstract.
+				We mathematically characterize the cognitive capabilities that enable humans to pragmatically use natural language to instruct others. 
+We show that probabilistic instruction generation agents possess similar capabilities, and design an evaluation scheme for probing those capabilities.
+Applying this scheme to examine standard neural-network-based agents, we find that their theory-of-mind capability is severely lacking, as these agents poorly anticipate the listener's interpretations of their instructions.
+We augment the agents with better models of the listener and obtain significant performance boost in guiding real humans.
+Yet, there remains a considerable gap between our best agent and human instructors.
+We present empirical evidence to argue that closing this gap necessitates constructing better models of human behavior when interacting with AI-based agents.
+Building such models requires taking different approaches than imitating human-to-human interactions.
 			</td>
 		</tr>
 	</table>
