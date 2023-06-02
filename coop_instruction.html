@@ -118,9 +118,9 @@
 
 <html>
 <head>
-	<title>A Cognitive Evaluation of Instruction Generation Agents tl;dr They Need Better Theory-of-Mind Capabilities</title>
+	<title>Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models</title>
 	<meta property="og:image" content="Path to my teaser.png"/> <!-- Facebook automatically scrapes this. Go to https://developers.facebook.com/tools/debug/ if you update and want to force Facebook to rescrape. -->
-	<meta property="og:title" content="Cognitive Evaluation of Cooperative Instruction Generation Agents" />
+	<meta property="og:title" content="Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models" />
 	<!-- <meta property="og:description" content="Paper description." /> -->
 
 	<!-- Get from Google Analytics -->
@@ -138,7 +138,7 @@
 <body>
 	<br>
 	<center>
-		<span style="font-size:36px">A Cognitive Evaluation of Instruction Generation Agents <br> <i>tl;dr</i> They Need Better Theory-of-Mind Capabilities</span>
+		<span style="font-size:36px">Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models</span>
 		<table align=center width=600px>
 			<table align=center width=600px>
 				<tr>
@@ -223,13 +223,14 @@
 		<center><h1>Abstract</h1></center>
 		<tr>
 			<td>
-				We mathematically characterize the cognitive capabilities that enable humans to pragmatically use natural language to instruct others. 
-We show that probabilistic instruction generation agents possess similar capabilities, and design an evaluation scheme for probing those capabilities.
-Applying this scheme to examine standard neural-network-based agents, we find that their theory-of-mind capability is severely lacking, as these agents poorly anticipate the listener's interpretations of their instructions.
-We augment the agents with better models of the listener and obtain significant performance boost in guiding real humans.
-Yet, there remains a considerable gap between our best agent and human instructors.
-We present empirical evidence to argue that closing this gap necessitates constructing better models of human behavior when interacting with AI-based agents.
-Building such models requires taking different approaches than imitating human-to-human interactions.
+Recent work studies the cognitive capabilities of language models through psychological tests designed for humans. 
+While these studies are helpful for understanding the general capabilities of these models, there is no guarantee that a model possessing sufficient capabilities to pass those tests would actually use those capabilities in performing real-life tasks. 
+In this work, we formulate task-oriented cognitive capabilities, which are human-like cognitive capabilities that language models leverage to perform tasks. 
+These capabilities are (i) the ability to quickly generate good candidate utterances (the search capability) (ii) the ability to predict how a listener interprets those utterances and choose the most appropriate one (the pragmatic capability).
+We design an evaluation scheme for comparing these capabilities of a language model with those of a human.
+Applying this scheme to examine various models in a navigation instruction generation problem, we find that their pragmatic capability is severely lacking.
+This insight leads us to augment them with better models of the listener and obtain a significant boost of 11\% in success rate in guiding real humans.
+Our work advocates for having a principled procedure for aligning language models with humans that involves (i) formulating task-oriented capabilities, (ii) devising a method to quantify their deficiency, and (iii) iteratively improving them.
 			</td>
 		</tr>
 	</table>
