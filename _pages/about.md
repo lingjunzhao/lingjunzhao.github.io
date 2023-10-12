@@ -15,7 +15,7 @@ I graduated from Columbia University with M.S. in Computer Science, and Sun Yat-
 
 # News
 
-* [Oct 2023]  New paper on *Hallucination Detection for Grounded Instruction Generation*, accepted by Findings of EMNLP 2023.
-* [Jul 2023]  I presented in person at ICML Thery-of-Mind Workshop 2023 (received Outstanding Paper Award). [Slides](https://lingjunzhao.github.io/resources/acl_talk.pdf) and [Poster](https://lingjunzhao.github.io/resources/ToM_poster.pdf)
-* [May 2023]  New paper on *Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models*. Accepted by Finding of ACL 2023, and ICML ToM Workshop 2023. Code and dataset released on [Project Website](https://lingjunzhao.github.io/coop_instruction.html)
+* [Oct 2023]  New paper on **Hallucination Detection for Grounded Instruction Generation**, accepted by Findings of EMNLP 2023. [Project Website](https://lingjunzhao.github.io/hallucination_detection.html)
+* [Jul 2023]  I presented in person at ICML Thery-of-Mind Workshop 2023 (received **Outstanding Paper Award**). [Slides](https://lingjunzhao.github.io/resources/acl_talk.pdf) and [Poster](https://lingjunzhao.github.io/resources/ToM_poster.pdf)
+* [May 2023]  New paper on **Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models**. Accepted by Finding of ACL 2023, and ICML ToM Workshop 2023. Code and dataset released on [Project Website](https://lingjunzhao.github.io/coop_instruction.html)
 
