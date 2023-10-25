@@ -1,0 +1,8 @@
+@misc{zhao2023hallucination,
+      title={Hallucination Detection for Grounded Instruction Generation}, 
+      author={Lingjun Zhao and Khanh Nguyen and Hal Daumé III au2},
+      year={2023},
+      eprint={2310.15319},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}

@@ -159,31 +159,26 @@
 					</td>
 				</tr>
 			</table>
-<!-- 			<table align=center width=350px>
+			<table align=center width=350px>
 				<tr>
 					<td align=center width=120px>
 						<center>
-							<span style="font-size:24px"><a href='https://arxiv.org/abs/2301.05149'>[Paper]</a></span>
+							<span style="font-size:24px"><a href='https://arxiv.org/abs/2310.15319'>[Paper]</a></span>
 						</center>
 					</td>
 					<td align=center width=120px>
 						<center>
-							<span style="font-size:24px"><a href='./resources/acl_talk.pdf'>[Slides]</a></span>
+							<span style="font-size:24px"><a href='https://github.com/lingjunzhao/hallucination-detection'>[GitHub]</a></span><br>
 						</center>
 					</td>
 					<td align=center width=120px>
 						<center>
-							<span style="font-size:24px"><a href='https://github.com/lingjunzhao/coop_instruction'>[GitHub]</a></span><br>
-						</center>
-					</td>
-					<td align=center width=120px>
-						<center>
-							<span style="font-size:24px"><a href='./resources/bibtex.txt'>[Bibtex]</a></span><br>
+							<span style="font-size:24px"><a href='./resources/hallucination_detection/bibtex.txt'>[Bibtex]</a></span><br>
 						</center>
 					</td>
 				</tr>
 		</table>
-	</center> -->
+	</center>
 
 	<br>
 	<hr>
@@ -234,20 +229,80 @@
 		<center><h1>Abstract</h1></center>
 		<tr>
 			<td>
-We investigate the problem of generating instructions to guide humans to navigate in simulated residential environments. A major issue with current models is hallucination, where models generate references to actions or objects that are inconsistent with what a human follower will observe along a described path. We develop a model that detects these hallucinated references by starting with a model pretrained on a large corpus of image-text pairs and fine-tuning it with a contrastive loss that separates correct instructions from instructions with synthesized hallucinations. We find that our hallucination-detection approach outperforms several baselines, including using word probability under the instruction generation model, as well as supervised models based on LSTM and Transformer.
+We investigate the problem of generating instructions to guide humans to navigate in simulated residential environments. A major issue with current models is hallucination: they generate references to actions or objects that are inconsistent with what a human follower would perform or encounter along the described path. We develop a model that detects these hallucinated references by adopting a model pre-trained on a large corpus of image-text pairs, and fine-tuning it with a contrastive loss that separates correct instructions from instructions containing synthesized hallucinations. Our final model outperforms several baselines, including using word probability estimated by the instruction-generation model, and supervised models based on LSTM and Transformer.
 			</td>
 		</tr>
 	</table>
 	<br>
 	<hr>
 
+<br>
 
+		<center>
+		<table align=center width=850px>
+			<tr>
+				<td width=450px>
+					<center>
+						<img class="round" style="width:700px" src="./resources/hallucination_detection/model.pdf"/>
+					</center>
+				</td>
+			</tr>
+		</table>
+		<table align=center width=850px>
+			<tr>
+				<td>
+					Our hallucination detection model, which takes as input an instruction with a target word and determines whether it should be replaced or removed to be consistent with a visual trajectory. To build this model, we fine-tune pre-trained Airbert (Guhur et al., 2021) with a contrastive learning objective.
+				</td>
+			</tr>
+		</table>
+		<br>
 	</center>
+		<hr>
+		<br>
 
 
+		<center>
+		<table align=center width=850px>
+			<tr>
+				<td width=450px>
+					<center>
+						<img class="round" style="width:500px" src="./resources/hallucination_detection/results.png"/>
+					</center>
+				</td>
+			</tr>
+		</table>
+		<table align=center width=850px>
+			<tr>
+				<td>
+					Our model detects grounded word-level hallucination better than strong baselines.
+				</td>
+			</tr>
+		</table>
+		<br>
+	</center>
+		<hr>
+	<br>
 
-
-
+			<center>
+		<table align=center width=850px>
+			<tr>
+				<td width=450px>
+					<center>
+						<img class="round" style="width:750px" src="./resources/hallucination_detection/samples.png"/>
+					</center>
+				</td>
+			</tr>
+		</table>
+		<table align=center width=850px>
+			<tr>
+				<td>
+					Some successful and failure cases of the fine-tuned Airbert model. The blue arrow indicates the described path, and the green represents the next location.
+				</td>
+			</tr>
+		</table>
+		<br>
+	</center>
+		<hr>
 	<br>
 
 
