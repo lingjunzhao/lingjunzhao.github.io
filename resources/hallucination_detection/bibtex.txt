@@ -1,8 +1,12 @@
-@misc{zhao2023hallucination,
-      title={Hallucination Detection for Grounded Instruction Generation}, 
-      author={Lingjun Zhao and Khanh Nguyen and Hal Daumé III au2},
-      year={2023},
-      eprint={2310.15319},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{zhao2023hallucination,
+    title = "Hallucination Detection for Grounded Instruction Generation",
+    author = "Zhao, Lingjun  and
+      Nguyen, Khanh  and
+      Daum{\'e} III, Hal",
+    booktitle = "Findings of the Empirical Methods in Natural Language Processing: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2310.15319",
 }
