@@ -1,1 +1,8 @@
-TODO
+@misc{zhao2024successfully,
+      title={Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Corrections}, 
+      author={Lingjun Zhao and Khanh Nguyen and Hal Daumé III au2},
+      year={2024},
+      eprint={2402.16973},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
