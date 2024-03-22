@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I am advised by Prof. Hal Daumé III. I graduated from Columbia University with M.S. in Computer Science, and Sun Yat-Sen University with B.S. in Computational Mathematics.
 
-I am broadly interested in AI-assisted decision-making and trustworthiness. My research focus on equipping large language/multimodal models with self-reasoning and self-improvement capabilities to be more useful to humans, including pragmatic capability and hallucination detection and correction.
+I am broadly interested in AI-assisted decision-making and trustworthiness. My research focus on equipping large language/multimodal models with self-reasoning and self-improvement capabilities to be more useful to humans, including (i) pragmatic capability (ii) hallucination detection and correction.
 
 
 # News
