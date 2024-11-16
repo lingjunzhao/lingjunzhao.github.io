@@ -10,9 +10,9 @@ redirect_from:
 
 I am a 4th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I am advised by Prof. Hal Daumé III. I graduated from Columbia University with M.S. in Computer Science, and Sun Yat-Sen University with B.S. in Computational Mathematics.
 
-I am broadly interested in studying problems related to **trustworthiness** in **multimodal** setting, aiming to enhance **human-AI collaboration**. My research focuses on equipping visual-language models with self-reasoning and self-improvement capabilities to better serve human needs. This includes (i) detecting and correcting hallucinations, (ii) generating faithful explanations, (iii) fostering pragmatic understanding and (iv) temporal understanding.
+I am broadly interested in studying problems related to **trustworthiness** in **multimodal** setting, aiming to enhance **human-AI collaboration**. My research focuses on equipping visual-language models with self-reasoning and self-improvement capabilities to better serve human needs. This includes (i) detecting and correcting hallucinations, (ii) generating faithful explanations, (iii) fostering pragmatic understanding by simulating human behavior and (iv) temporal understanding.
 
-I am interested in research internship in 2025.
+I am seeking a research internship opportunity in 2025. Please feel free to reach out if you believe our interests align!
 
 
 # News
