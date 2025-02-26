@@ -18,7 +18,7 @@ I am open to collaborate with one/two junior PhD students, please feel free to r
 # News
 
 * [Feb 2025]  New paper on *Can Hallucination Correction Improve Video-Language Alignment?* ([link](https://arxiv.org/abs/2502.15079))
-* [Nov 2024]  I'm going to EMNLP 2024 in person, to give an oral presentation for [this paper](https://arxiv.org/abs/2402.16973). Let's chat!
-* [Feb 2024]  New paper on *Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Alternatives*, accepted by EMNLP 2024 main conference (Oral). [Project Website](https://lingjunzhao.github.io/HEAR.html)
+* [Nov 2024]  I'm going to EMNLP 2024 in person, to give a presentation for [this paper](https://arxiv.org/abs/2402.16973). Let's chat!
+* [Feb 2024]  New paper on *Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Alternatives*, accepted by EMNLP 2024 main conference (**Oral**). [Project Website](https://lingjunzhao.github.io/HEAR.html)
 * [Oct 2023]  New paper on *Hallucination Detection for Grounded Instruction Generation*, accepted by Findings of EMNLP 2023. [Project Website](https://lingjunzhao.github.io/hallucination_detection.html)
 * [Dec 2022]  New paper on *Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models*. Accepted by Finding of ACL 2023, and ICML ToM Workshop 2023 (received **Outstanding Paper Award**). Code and dataset released on [Project Website](https://lingjunzhao.github.io/coop_instruction.html)
