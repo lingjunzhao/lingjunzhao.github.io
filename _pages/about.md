@@ -12,13 +12,13 @@ I am a 5th-year Ph.D. student at the Computer Science Department of University o
 
 I am broadly interested in studying problems related to **trustworthiness** in **multimodal** setting, aiming to enhance **human-centered AI**. My research focuses on equipping visual-language models with self-reasoning and self-improvement capabilities to better serve human needs. This includes (i) correcting hallucinations and communicating uncertainties, (ii) fostering pragmatic understanding by simulating human behavior, (iii) generating faithful explanations and (iv) visual-language alignment for long context.
 
-I am open to collaborate with one/two junior PhD students, please feel free to reach out and let me know your interests.
 
 
 # News
 
-* [Feb 2025]  New paper on *Can Hallucination Correction Improve Video-Language Alignment?* ([link](https://arxiv.org/abs/2502.15079))
+* [Jun 2025]  Excited to start research internship at Microsoft Semantic Machines!
+* [Feb 2025]  [New paper](https://arxiv.org/abs/2502.15079) on *Can Hallucination Correction Improve Video-Language Alignment?* Accepted by ACL 2025.
 * [Nov 2024]  I'm going to EMNLP 2024 in person, to give a presentation for [this paper](https://arxiv.org/abs/2402.16973). Let's chat!
 * [Feb 2024]  New paper on *Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Alternatives*, accepted by EMNLP 2024 main conference (**Oral**). [Project Website](https://lingjunzhao.github.io/HEAR.html)
-* [Oct 2023]  New paper on *Hallucination Detection for Grounded Instruction Generation*, accepted by Findings of EMNLP 2023. [Project Website](https://lingjunzhao.github.io/hallucination_detection.html)
-* [Dec 2022]  New paper on *Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models*. Accepted by Finding of ACL 2023, and ICML ToM Workshop 2023 (received **Outstanding Paper Award**). Code and dataset released on [Project Website](https://lingjunzhao.github.io/coop_instruction.html)
+* [Oct 2023]  New paper on *Hallucination Detection for Grounded Instruction Generation*, accepted by EMNLP 2023. [Project Website](https://lingjunzhao.github.io/hallucination_detection.html)
+* [Dec 2022]  New paper on *Define, Evaluate, and Improve Task-Oriented Cognitive Capabilities for Instruction Generation Models*. Accepted by ACL 2023, and ICML ToM Workshop 2023 (received **Outstanding Paper Award**). Code and dataset released on [Project Website](https://lingjunzhao.github.io/coop_instruction.html)
