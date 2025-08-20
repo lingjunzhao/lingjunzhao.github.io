@@ -13,12 +13,13 @@ I am a 5th-year Ph.D. student at the Computer Science Department of University o
 I am broadly interested in studying problems related to **trustworthiness** in **multimodal** setting, aiming to enhance **human-centered AI**. My research focuses on equipping visual-language models with self-reasoning and self-improvement capabilities to better serve human needs. This includes:\
 (i) Correcting hallucinations and communicating uncertainties [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
 (ii) Fostering pragmatic understanding by simulating human behavior [[ACL 23](https://arxiv.org/abs/2301.05149)]\
-(iii) Generating faithful explanations [Paper coming soon]\
+(iii) Generating faithful explanations [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
 (iv) Visual-language alignment for long context [[ACL 25](https://arxiv.org/abs/2502.15079)]
 
 
 # News
 
+* [Aug 2025]  [New paper](https://arxiv.org/abs/2505.19299) on *A Necessary Step toward Faithfulness: Measuring and Improving Consistency in Free-Text Explanations* Accepted by EMNLP 2025. Code coming soon.
 * [Jun 2025]  Excited to start research internship at Microsoft Semantic Machines!
 * [Feb 2025]  [New paper](https://arxiv.org/abs/2502.15079) on *Can Hallucination Correction Improve Video-Language Alignment?* Accepted by ACL 2025.
 * [Feb 2024]  New paper on *Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Alternatives*, accepted by EMNLP 2024 (**Oral**). [Project Website](https://lingjunzhao.github.io/HEAR.html)
