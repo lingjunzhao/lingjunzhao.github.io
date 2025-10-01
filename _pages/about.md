@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I am advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
-My research focuses on making (visual) language models more **trustworthy**--addressing uncertainty, pragmatics, and alignment--by equipping them with self-reasoning and self-improvement capabilities. Ultimately, I aim to advance human-centered AI.
+My research focuses on **making (visual) language models more trustworthy**--addressing uncertainty, pragmatics, and alignment--by equipping them with self-reasoning and self-improvement capabilities. Ultimately, I aim to advance human-centered AI.
 This includes:\
 (i) Correcting hallucinations and communicating uncertainties [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
 (ii) Fostering pragmatic language generation by simulating human behavior [[ACL 23](https://arxiv.org/abs/2301.05149)]\
