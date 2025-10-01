@@ -8,15 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I am advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/).
+I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I am advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
-I'm broadly interested in studying problems related to **trustworthiness** (including uncertainty, pragmatics, alignment) in **multimodal** setting, aiming to enhance **human-centered AI**. My research focuses on equipping visual-language models with self-reasoning and self-improvement capabilities to better serve human needs. This includes:\
+My research focuses on making (visual) language models more **trustworthy**--addressing uncertainty, pragmatics, and alignment--by equipping them with self-reasoning and self-improvement capabilities. Ultimately, I aim to advance human-centered AI.
+This includes:\
 (i) Correcting hallucinations and communicating uncertainties [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
 (ii) Fostering pragmatic language generation by simulating human behavior [[ACL 23](https://arxiv.org/abs/2301.05149)]\
 (iii) Generating faithful free-text explanations [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
-(iv) Visual-language alignment for long context [[ACL 25](https://arxiv.org/abs/2502.15079)]
+(iv) Improving visual-language alignment for long context understanding [[ACL 25](https://arxiv.org/abs/2502.15079)]
 
-I'm looking for a research internship in Summer/Spring 2026 with the potential for a return offer, please feel free to reach out for a chat!
+Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a full-time staff scientist at BBN Technologies.
+
+I'm currently seeking a research internship in Summer/Spring 2026 with the potential for return, please feel free to reach out for a chat!
 
 
 # News
