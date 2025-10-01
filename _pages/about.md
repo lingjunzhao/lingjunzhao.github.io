@@ -10,13 +10,13 @@ redirect_from:
 
 I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I am advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/).
 
-I'm broadly interested in studying problems related to **trustworthiness** in **multimodal** setting, aiming to enhance **human-centered AI**. My research focuses on equipping visual-language models with self-reasoning and self-improvement capabilities to better serve human needs. This includes:\
+I'm broadly interested in studying problems related to **trustworthiness** (including uncertainty, pragmatics, alignment) in **multimodal** setting, aiming to enhance **human-centered AI**. My research focuses on equipping visual-language models with self-reasoning and self-improvement capabilities to better serve human needs. This includes:\
 (i) Correcting hallucinations and communicating uncertainties [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
 (ii) Fostering pragmatic language generation by simulating human behavior [[ACL 23](https://arxiv.org/abs/2301.05149)]\
 (iii) Generating faithful free-text explanations [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
 (iv) Visual-language alignment for long context [[ACL 25](https://arxiv.org/abs/2502.15079)]
 
-I'm looking for a research internship in Summer 2026 with the potential for a return offer, please feel free to reach out!
+I'm looking for a research internship in Summer/Spring 2026 with the potential for a return offer, please feel free to reach out for a chat!
 
 
 # News
