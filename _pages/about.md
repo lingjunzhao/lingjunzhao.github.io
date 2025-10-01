@@ -17,7 +17,7 @@ This includes:\
 (iii) Generating faithful free-text explanations [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
 (iv) Improving visual-language alignment for long context understanding [[ACL 25](https://arxiv.org/abs/2502.15079)]
 
-Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a full-time staff scientist at BBN Technologies.
+Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on cross-lingual information retrieval.
 
 I'm currently seeking a research internship in Summer/Spring 2026 with the potential for return, please feel free to reach out for a chat!
 
