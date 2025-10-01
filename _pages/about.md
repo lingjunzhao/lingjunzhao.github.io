@@ -19,7 +19,7 @@ This includes:\
 
 Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on cross-lingual information retrieval.
 
-I'm currently seeking a research internship in Summer/Spring 2026 with the potential for return, please feel free to reach out for a chat!
+I'm currently seeking a research internship in Summer/Spring 2026 with the potential for return (no visa sponsorship needed), please feel free to reach out for an informal chat!
 
 
 # News
