@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I am advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
+I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
-My research focuses on **making (visual) language models more trustworthy**--addressing uncertainty, pragmatics, and alignment--by equipping them with self-reasoning and self-improvement capabilities. Ultimately, I aim to advance human-centered AI.
-This includes:\
+My research focuses on **enhancing the trustworthiness of (visual) language models** by tackling challenges in uncertainty, pragmatics, and alignment. I aim to equip these models with self-reasoning and self-improvement capabilities, contributing to the broader vision of human-centered AI.
+My representative projects include:\
 (i) Correcting hallucinations and communicating uncertainties [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
 (ii) Fostering pragmatic language generation by simulating human behavior [[ACL 23](https://arxiv.org/abs/2301.05149)]\
 (iii) Generating faithful free-text explanations [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
@@ -19,7 +19,7 @@ This includes:\
 
 Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on cross-lingual information retrieval.
 
-I'm currently seeking a research internship in Summer/Spring 2026 with the potential for return (no visa sponsorship needed), please feel free to reach out for an informal chat!
+I'll be on the **job market in 2026**, and am actively exploring full-time opportunities or internships with potential for return (no visa sponsorship needed). Feel free to reach out for an informal chat!
 
 
 # News
