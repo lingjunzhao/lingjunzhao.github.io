@@ -24,7 +24,7 @@ I'll be on the **job market in 2026**, and am actively exploring full-time oppor
 
 # News
 
-* [Nov 2025]  My PhD proposal is: *Toward Faithful and Pragmatic Language Models for Human-Centered AI Agents*
+* [Nov 2025]  My PhD proposal is: *Methods for Improving the Communication Efficacy of Language Models: Faithfulness and Pragmatics*
 * [Aug 2025]  [New paper](https://arxiv.org/abs/2505.19299) on *A Necessary Step toward Faithfulness: Measuring and Improving Consistency in Free-Text Explanations* Accepted by EMNLP 2025. [Code](https://github.com/lingjunzhao/PEX_consistency) released.
 * [Jun 2025]  Excited to start research internship at Microsoft Semantic Machines!
 * [Feb 2025]  [New paper](https://arxiv.org/abs/2502.15079) on *Can Hallucination Correction Improve Video-Language Alignment?* Accepted by ACL 2025.
