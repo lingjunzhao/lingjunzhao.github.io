@@ -10,16 +10,16 @@ redirect_from:
 
 I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
-My research focuses on **improving the communication efficacy of (visual) language models** by addressing challenges in uncertainty, explainability, pragmatics, and alignment. I aim to equip these models with self-reasoning and self-improvement capabilities to advance human-centered AI.
-My representative projects include:\
-(i) Correcting hallucinations and communicating uncertainties to improve human task performance [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
-(ii) Fostering pragmatic communication by simulating human behavior [[ACL 23](https://arxiv.org/abs/2301.05149)]\
+My research focuses on **improving the communication efficacy of (visual) language models** by addressing challenges in uncertainty, explainability, pragmatics, and alignment. I aim to equip these models with self-improvement capabilities that minimize reliance on data annotation to advance **human-AI collaboration**.
+My representative work include:\
+(i) Detecting hallucinations and communicating rich uncertainties to improve human task performance [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
+(ii) Fostering pragmatic communication through human behavior simulation using RL agents [[ACL 23](https://arxiv.org/abs/2301.05149)]\
 (iii) Generating faithful free-text explanations [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
 (iv) Improving visual-language alignment for long context understanding [[ACL 25](https://arxiv.org/abs/2502.15079)]
 
 Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on cross-lingual information retrieval.
 
-I'll be on the **job market in 2026**, and am actively exploring full-time opportunities (no visa sponsorship needed). Feel free to reach out for an informal chat!
+I'll be on the **job market in 2026**, and am actively exploring full-time opportunities. Feel free to reach out for an informal chat!
 
 
 # News
