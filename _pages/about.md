@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year Ph.D. student at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
+I'm a 5th-year Ph.D. candidate at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
 My research focuses on **improving the communication efficacy of (visual) language models** by addressing challenges in uncertainty, explainability, pragmatics, and alignment. I aim to equip these models with self-improvement capabilities that minimize reliance on data annotation to advance **human-AI collaboration**.
 My representative work include:\
