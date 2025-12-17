@@ -19,7 +19,7 @@ My representative work include:\
 
 Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on low resource cross-lingual information retrieval.
 
-I'll be on the **job market in 2026**, and am interested in research scientist and postdoc opportunities. Feel free to reach out for an informal chat!
+<!--I'll be on the **job market in 2026**, and am interested in research scientist and postdoc opportunities. Feel free to reach out for an informal chat!-->
 
 
 # News
