@@ -10,7 +10,9 @@ redirect_from:
 
 I'm a 5th-year Ph.D. candidate at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
-My research focuses on **improving the communication efficacy of (visual) language models** by addressing challenges in uncertainty, explainability, pragmatics, and alignment. I aim to equip these models with self-improvement capabilities that minimize reliance on data annotation to advance **human-AI collaboration**.
+My research focuses on **improving the communication efficacy of (visual) language models** by addressing challenges in uncertainty, explainability, pragmatics, and alignment. 
+I aim to improve human-AI communication to advance **human-AI collaboration**.
+<!--I aim to equip these models with self-improvement capabilities that minimize reliance on data annotation to advance **human-AI collaboration**.-->
 My representative work include:\
 (i) Detecting hallucinations and communicating rich uncertainties to improve human task performance [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
 (ii) Fostering pragmatic communication through human behavior simulation using RL agents [[ACL 23](https://arxiv.org/abs/2301.05149)]\
