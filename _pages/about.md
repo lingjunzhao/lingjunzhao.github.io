@@ -8,25 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 5th-year Ph.D. candidate at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
+I'm a 6th-year Ph.D. candidate at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
-My research focuses on **improving the communication efficacy of (visual) language models** by addressing challenges in uncertainty, explainability, pragmatics, and alignment. 
-I aim to improve human-AI communication to advance **human-AI collaboration**.
-<!--I aim to equip these models with self-improvement capabilities that minimize reliance on data annotation to advance **human-AI collaboration**.-->
+My research focuses on improving **human-AI communication** for (visual) language models, with the goal of advancing human-AI collaboration.
 My representative work include:\
-(i) Detecting hallucinations and communicating rich uncertainties to improve human task performance [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
-(ii) Fostering pragmatic communication through human behavior simulation using RL agents [[ACL 23](https://arxiv.org/abs/2301.05149)]\
-(iii) Measuring and improving explanation consistency towards faithfulness [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
-(iv) Improving visual-language alignment for long context understanding [[ACL 25](https://arxiv.org/abs/2502.15079)]
+(i) **Pragmatic communication**: \
+Through human behavior simulation using reinforcement learning agents [[ACL 23](https://arxiv.org/abs/2301.05149)];\
+Introducing an evaluation framework and self-improvement method for culturally-adapted text generation [[Preprint](http://arxiv.org/abs/2604.02557)]\
+(ii) **Explainability**: \
+Measuring and improving explanation consistency towards faithfulness [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
+(iii) **Uncertainty**: \
+Detecting hallucinations and communicating rich uncertainties to improve human task performance [[EMNLP 24](https://arxiv.org/abs/2402.16973), [EMNLP 23](https://arxiv.org/abs/2310.15319)]\
+(iv) **Alignment**: \
+Improving visual-language alignment for long context understanding [[ACL 25](https://arxiv.org/abs/2502.15079)]
 
-Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on low resource cross-lingual information retrieval.
+Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on low resource natural language processing.
 
 <!--I'll be on the **job market in 2026**, and am interested in research scientist and postdoc opportunities. Feel free to reach out for an informal chat!-->
 
 
 # News
 
-* [Nov 2025]  My PhD proposal is: *Methods for Improving the Communication Efficacy of Language Models: Faithfulness and Pragmatics*. [Slides](https://lingjunzhao.github.io/resources/Proposal.pdf)
+* [Nov 2025]  My PhD proposal is: *Methods for Improving the Communication Efficacy of Language Models: Faithfulness and Pragmatics*, also presented this talk at Google DeepMind. [Slides](https://lingjunzhao.github.io/resources/Proposal.pdf)
 * [Aug 2025]  [New paper](https://arxiv.org/abs/2505.19299) on *A Necessary Step toward Faithfulness: Measuring and Improving Consistency in Free-Text Explanations* Accepted by EMNLP 2025. [Code](https://github.com/lingjunzhao/PEX_consistency) released.
 * [Jun 2025]  Excited to start research internship at Microsoft Semantic Machines!
 * [Feb 2025]  [New paper](https://arxiv.org/abs/2502.15079) on *Can Hallucination Correction Improve Video-Language Alignment?* Accepted by ACL 2025.
