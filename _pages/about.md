@@ -13,8 +13,8 @@ I'm a 6th-year Ph.D. candidate at the Computer Science Department of University 
 My research focuses on improving **human-AI communication** for (visual) language models, with the goal of advancing human-AI collaboration.
 My representative work include:\
 (i) **Pragmatic communication**: \
-Through human behavior simulation using reinforcement learning agents [[ACL 23](https://arxiv.org/abs/2301.05149)];\
-Introducing an evaluation framework and self-improvement method for culturally-adapted text generation [[Preprint](http://arxiv.org/abs/2604.02557)]\
+Introducing an evaluation framework and self-improvement method for culturally-adapted text generation [[Preprint](http://arxiv.org/abs/2604.02557)];\
+Through human behavior simulation using reinforcement learning agents [[ACL 23](https://arxiv.org/abs/2301.05149)]\
 (ii) **Explainability**: \
 Measuring and improving explanation consistency towards faithfulness [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
 (iii) **Uncertainty**: \
