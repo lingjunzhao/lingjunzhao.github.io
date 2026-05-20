@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a 6th-year Ph.D. candidate at the Computer Science Department of University of Maryland, College Park, where I'm fortunate to be advised by Prof. [Hal Daumé III](http://users.umiacs.umd.edu/~hal3/). 
 
-My research focuses on improving **human-AI communication** for (visual) language models, with the goal of advancing human-AI collaboration.
+My research focuses on improving **human-AI communication** for (visual) language models through self-improvement methods, with the goal of advancing human-AI collaboration.
 My representative work include:\
-(i) **Pragmatic communication**: \
+(i) **Pragmatics and Theory of Mind**: \
 Introducing an evaluation framework and self-improvement method for culturally-adapted text generation [[Preprint](http://arxiv.org/abs/2604.02557)];\
 Through human behavior simulation using reinforcement learning agents [[ACL 23](https://arxiv.org/abs/2301.05149)]\
 (ii) **Explainability**: \
@@ -23,6 +23,7 @@ Detecting hallucinations and communicating rich uncertainties to improve human t
 Improving visual-language alignment for long context understanding [[ACL 25](https://arxiv.org/abs/2502.15079)]
 
 Previously, I interned at Microsoft Research, working on personalization, and at Honda Research Institute, focusing on visual language models. I also worked as a staff scientist at BBN Technologies on low resource natural language processing.
+I received B.S. in Computational Mathematics from Sun Yat-sen University.
 
 <!--I'll be on the **job market in 2026**, and am interested in research scientist and postdoc opportunities. Feel free to reach out for an informal chat!-->
 
