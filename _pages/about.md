@@ -13,7 +13,7 @@ I'm a 6th-year Ph.D. candidate at the Computer Science Department of University 
 My research focuses on improving **human-AI communication** for (visual) language models through self-improvement methods, with the goal of advancing human-AI collaboration.
 My representative work include:\
 (i) **Pragmatics and Theory of Mind**: \
-Introducing an evaluation framework and self-improvement method for culturally-adapted text generation [[Preprint](http://arxiv.org/abs/2604.02557)];\
+Introducing a task and an evaluation framework for culturally-adapted text generation [[Preprint](http://arxiv.org/abs/2604.02557)];\
 Through human behavior simulation using reinforcement learning agents [[ACL 23](https://arxiv.org/abs/2301.05149)]\
 (ii) **Explainability**: \
 Measuring and improving explanation consistency towards faithfulness [[EMNLP 25](https://arxiv.org/abs/2505.19299)]\
@@ -32,7 +32,7 @@ I received B.S. in Computational Mathematics from Sun Yat-sen University.
 
 * [Nov 2025]  My PhD proposal is: *Methods for Improving the Communication Efficacy of Language Models: Faithfulness and Pragmatics*, also presented this talk at Google DeepMind. [Slides](https://lingjunzhao.github.io/resources/Proposal.pdf)
 * [Aug 2025]  [New paper](https://arxiv.org/abs/2505.19299) on *A Necessary Step toward Faithfulness: Measuring and Improving Consistency in Free-Text Explanations* Accepted by EMNLP 2025. [Code](https://github.com/lingjunzhao/PEX_consistency) released.
-* [Jun 2025]  Excited to start research internship at Microsoft Semantic Machines!
+* [Jun 2025]  Starting research internship at Microsoft Semantic Machines
 * [Feb 2025]  [New paper](https://arxiv.org/abs/2502.15079) on *Can Hallucination Correction Improve Video-Language Alignment?* Accepted by ACL 2025.
 * [Feb 2024]  New paper on *Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Alternatives*, accepted by EMNLP 2024 (**Oral**). [Project Website](https://lingjunzhao.github.io/HEAR.html)
 * [Oct 2023]  New paper on *Hallucination Detection for Grounded Instruction Generation*, accepted by EMNLP 2023. [Project Website](https://lingjunzhao.github.io/hallucination_detection.html)
